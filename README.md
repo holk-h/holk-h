@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holk-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=holk-h&left_color=green&right_color=red)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=holkh)
